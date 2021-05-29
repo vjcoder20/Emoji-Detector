@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+  :root{
+background-color: #A3E635;
+}
+input{
+  padding: 1rem;
+  width:80%;
+}
